@@ -1,0 +1,13 @@
+C:\LN\daonguocptcuamang\bin\Debug\netcoreapp3.1\daonguocptcuamang.exe
+C:\LN\daonguocptcuamang\bin\Debug\netcoreapp3.1\daonguocptcuamang.deps.json
+C:\LN\daonguocptcuamang\bin\Debug\netcoreapp3.1\daonguocptcuamang.runtimeconfig.json
+C:\LN\daonguocptcuamang\bin\Debug\netcoreapp3.1\daonguocptcuamang.runtimeconfig.dev.json
+C:\LN\daonguocptcuamang\bin\Debug\netcoreapp3.1\daonguocptcuamang.dll
+C:\LN\daonguocptcuamang\bin\Debug\netcoreapp3.1\daonguocptcuamang.pdb
+C:\LN\daonguocptcuamang\obj\Debug\netcoreapp3.1\daonguocptcuamang.csprojAssemblyReference.cache
+C:\LN\daonguocptcuamang\obj\Debug\netcoreapp3.1\daonguocptcuamang.AssemblyInfoInputs.cache
+C:\LN\daonguocptcuamang\obj\Debug\netcoreapp3.1\daonguocptcuamang.AssemblyInfo.cs
+C:\LN\daonguocptcuamang\obj\Debug\netcoreapp3.1\daonguocptcuamang.csproj.CoreCompileInputs.cache
+C:\LN\daonguocptcuamang\obj\Debug\netcoreapp3.1\daonguocptcuamang.dll
+C:\LN\daonguocptcuamang\obj\Debug\netcoreapp3.1\daonguocptcuamang.pdb
+C:\LN\daonguocptcuamang\obj\Debug\netcoreapp3.1\daonguocptcuamang.genruntimeconfig.cache
